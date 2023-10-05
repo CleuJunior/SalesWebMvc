@@ -34,3 +34,5 @@ C:\Users\Desktop\Desktop\projetos csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netco
 C:\Users\Desktop\Desktop\projetos csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorTargetAssemblyInfo.cs
 C:\Users\Desktop\Desktop\projetos csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\Desktop\Desktop\projetos csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\Desktop\Desktop\projetos csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Indext.cshtml.g.cs
+C:\Users\Desktop\Desktop\projetos csharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
